@@ -1,4 +1,4 @@
-# Predict Term Deposit Subscription Classification
+# Predict Subscription of Term Deposit (Classification)
 
 ---
 
